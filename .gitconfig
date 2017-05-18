@@ -1,0 +1,16 @@
+[push]
+	default = current
+[user]
+	name = <name>
+	email = <email>
+[color]
+	ui = true
+[pull]
+	rebase = true
+[fetch]
+	prune = true
+[core]
+	autocrlf = false
+	excludesfile = /home/user/.gitignore
+[log]
+	decorate = short
